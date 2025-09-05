@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-6 py-3 rounded-lg font-semibold transition-all duration-300 inline-block;
+  }
+  
+  .btn-primary {
+    @apply bg-white text-primary-600 hover:bg-gray-50 hover:-translate-y-0.5;
+  }
+  
+  .btn-secondary {
+    @apply bg-transparent text-white border-2 border-white hover:bg-white hover:text-primary-600;
+  }
+  
+  .section-title {
+    @apply text-4xl font-bold text-center mb-12 text-gray-800;
+  }
+  
+  .container {
+    @apply max-w-6xl mx-auto px-5;
+  }
+  
+  .gradient-bg {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-lg p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl;
+  }
+  
+  .timeline-marker {
+    @apply absolute w-5 h-5 bg-primary-600 rounded-full border-4 border-white shadow-lg;
+  }
+  
+  .nav-link {
+    @apply text-gray-700 font-medium transition-colors duration-300 hover:text-primary-600;
+  }
+}

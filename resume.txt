@@ -1,0 +1,90 @@
+Engineering leader with 23+ years of experience delivering enterprise-scale SaaS & on-premises products across Healthcare, EHS, and Test & Measurement domains. Proven track record of building and scaling high-performing teams (60+ engineers), driving 20%+ productivity gains, and leading digital transformation initiatives including AI integration. Adept at aligning engineering execution with business strategy, fostering innovation, and delivering measurable outcomes.
+CORE COMPETENCIES
+•
+Leadership & Team Building – Scaling global engineering teams, engagement >85%
+•
+Technology Strategy – Microservices, Azure Cloud, Distributed Systems
+•
+Architecture & Delivery – .NET, C#, Node.js, React, Python, MongoDB, Kafka
+•
+Program & Product Management – Agile/SAFe, Roadmap Planning, KPI Tracking
+•
+AI & Innovation – AI-enabled feature design, Data-driven decision framework
+SELECTED CAREER ACHIEVEMENTS
+•
+Scaled Test Automation Coverage from 19% to 35%, accelerating release cycles and improving product quality at Greenway Health.
+•
+Led two complex migration programs at Greenway Health: migrated an EHR from legacy Progress DB to PASOE and revived a shelved EHR project by migrating from TFS to Git, rebuilding the team, and delivering the first release in 5 years with a multi-release roadmap for FY26.
+•
+Established DevAcademy talent pipeline at Greenway Health — conducted biannual campus hiring, trained interns for 4–5 months and onboarded them as Associate Software Engineers.
+•
+Established Offshore Development Center for Intelex, growing to 60+ engineers across 7 Agile teams within 2 years.
+•
+Boosted Employee Engagement from 57% to 92% at Tektronix, through culture transformation and leadership coaching.
+•
+Led AI-Driven Innovation Backlog at Greenway Health, enabling future intelligent product capabilities.
+•
+Delivered 40+ high-speed serial test products at Tektronix, modernizing architecture for web deployment.
+PROFESSIONAL EXPERIENCE
+DIRECTOR OF DEVELOPMENT ENGINEERING – GREENWAY HEALTH (2024–PRESENT) | BENGALURU, INDIA Tech Stack: Client-Server application, C# WinForms, WPF, Progress ABL, MSSQL
+•
+Lead 60+ engineers in delivering the 2 EHR product for ambulatory and Dental care.
+•
+Implemented engineering KPIs and dashboards to track velocity, quality, and operational efficiency.
+•
+Partnered with product & design to align delivery with strategic business outcomes.
+•
+Scaled test automation coverage from 19% → 35%, accelerating releases. A ASHOK KUMAR aashokkumarin@hotmail.com | +91-94480 70477 https://www.linkedin.com/in/ashok-kumar-anbalagan-61120921/
+EXECUTIVE SUMMARY
+E
+•
+Led two complex migration projects:
+o
+Migrated an EHR platform from an older Progress DB to PASOE for improved scalability and performance.
+o
+Revived an EHR project shelved for 5 years by migrating source control from TFS to Git, building a new team, and delivering the first release in 5 years, with a roadmap for 2 major and 4 minor releases in FY26.
+•
+Launched & led the “DevAcademy” talent program — conducted campus recruitment drives twice yearly, hiring interns and providing 4–5 months of focused coaching before onboarding them as Associate Software Engineers.
+SENIOR SOFTWARE DEVELOPMENT MANAGER & SITE LEAD – INTELEX TECHNOLOGIES (2022–2024) Tech Stack: Client-Server and Microservice application; C#, ASP.NET, MSSQL, Node.js, React.TS, MongoDB, Kafka, Snowflake, Azure,
+•
+Built 7 Agile teams and scaled the site to 60+ engineers.
+•
+Reduced onboarding ramp-up to 1 month for new hires.
+•
+Actively engaged in architecture and design discussions, influencing key architectural decisions.
+•
+Maintained vendor relationships to ensure delivery quality and scalability.
+•
+Monitored project progress, tracked KPIs, and provided updates to senior leadership.
+•
+Introduced SAFe methodology for improved collaboration in software development.
+•
+Conducted team performance evaluations and mentoring, fostering a cohesive and engaged engineering team.
+ENGINEERING MANAGER – TEKTRONIX (2016–2022) Tech Stack: Windows MVC application, .NET, C#, Python, ASP.NET
+•
+Led multi-product portfolio including TekExpress and high-speed test suites.
+•
+Increased team engagement from 57% → 92% through structured mentoring and career growth paths.
+•
+Transitioned legacy products to web-based architecture, improving performance and maintainability.
+EARLIER ROLES AT TEKTRONIX, ROBERT BOSCH, SOLITON TECHNOLOGIES (2002–2016)
+•
+Held positions including Program Manager, Project Lead/Scrum Master, and Senior Software Engineer.
+•
+Delivered award-winning Vision-Based Inspection Systems (NI-Week 2003 & 2004 awards).
+EDUCATION & CERTIFICATIONS
+•
+M.Sc (Business Analytics) – Birla Institute of Technology (CGPA: 7.8)
+•
+B.E. (Information Technology) – Bharathiar University (74.9%)
+•
+PMP® Certified (#1699069)
+•
+Certified SAFe® 5 Agilist | Certified Scrum Master (Expired)
+AWARDS & RECOGNITION
+•
+Multiple Inspire Awards for leadership & delivery excellence.
+•
+1st Place, Automotive Category, NI-Week 2003 – Vision-Based Drum Brake Inspection System.
+•
+Solution of the Year 2004, Advanced Imaging – Published in ISA Asia Pacific.
