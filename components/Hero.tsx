@@ -99,7 +99,7 @@ const Hero = () => {
                 className="absolute inset-0 border-2 border-white/20 rounded-full"
               ></motion.div>
               <div className="w-80 h-80 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center border border-white/20">
-                <User size={120} className="text-white/70" />
+                <User size={150} className="text-white/70" />
               </div>
             </div>
           </motion.div>

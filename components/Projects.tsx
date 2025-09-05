@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 import { useInView } from 'framer-motion'
 import { useRef } from 'react'
-import { Hospital, GraduationCap, TrendingUp, ExternalLink } from 'lucide-react'
+import { Activity  , GraduationCap, TrendingUp, ExternalLink } from 'lucide-react'
 
 const Projects = () => {
   const ref = useRef(null)
@@ -11,7 +11,7 @@ const Projects = () => {
 
   const projects = [
     {
-      icon: Hospital,
+      icon: Activity ,
       title: "EHR Migration & Revival",
       description: "Led complex migration from legacy Progress DB to PASOE and revived shelved EHR project with Git migration and team rebuilding.",
       tech: ["C#", "Progress ABL", "MSSQL", "Git"],
