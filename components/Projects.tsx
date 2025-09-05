@@ -72,7 +72,7 @@ const Projects = () => {
               <motion.div
                 key={index}
                 variants={itemVariants}
-                whileHover={{ 
+                whileHover={{
                   scale: 1.05,
                   rotateY: 5,
                 }}
@@ -80,20 +80,20 @@ const Projects = () => {
               >
                 {/* Background Gradient */}
                 <div className={`absolute inset-0 ${project.color} opacity-0 group-hover:opacity-5 transition-opacity duration-300`}></div>
-                
+
                 <div className="relative z-10">
                   <div className={`w-16 h-16 ${project.color} rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300`}>
                     <project.icon size={32} className="text-white" />
                   </div>
-                  
+
                   <h3 className="text-xl font-bold text-gray-800 mb-3 group-hover:text-primary-600 transition-colors">
                     {project.title}
                   </h3>
-                  
+
                   <p className="text-gray-600 mb-6 leading-relaxed">
                     {project.description}
                   </p>
-                  
+
                   <div className="flex flex-wrap gap-2 mb-4">
                     {project.tech.map((tech, idx) => (
                       <span
@@ -104,7 +104,7 @@ const Projects = () => {
                       </span>
                     ))}
                   </div>
-                  
+
                   <motion.button
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
