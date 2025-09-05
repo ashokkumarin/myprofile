@@ -81,16 +81,6 @@ const Footer = () => {
           <p className="text-gray-400 flex items-center justify-center space-x-2">
             <span>&copy; {currentYear} Ashok Kumar. All rights reserved.</span>
             <span className="text-gray-600">|</span>
-            <span className="flex items-center space-x-1">
-              <span>Made with</span>
-              <motion.div
-                animate={{ scale: [1, 1.2, 1] }}
-                transition={{ duration: 1, repeat: Infinity }}
-              >
-                <Heart size={16} className="text-red-500" />
-              </motion.div>
-              <span>using Next.js</span>
-            </span>
           </p>
         </motion.div>
       </div>
