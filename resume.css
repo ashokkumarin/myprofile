@@ -1,0 +1,114 @@
+/* Base Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* App Container */
+#app {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  color: #1e3a8a;
+}
+
+.header p {
+  font-size: 1rem;
+  color: #555;
+  margin-top: 10px;
+}
+
+.header a {
+  color: #2563eb;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.header a:hover {
+  text-decoration: underline;
+}
+
+/* Main Content */
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+/* Card Style */
+.card {
+  background-color: #fff;
+  padding: 25px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+}
+
+.card h2 {
+  font-size: 1.3rem;
+  color: #1e3a8a;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 5px;
+}
+
+/* Job Section */
+.job h3 {
+  font-size: 1.1rem;
+  color: #2563eb;
+  margin-bottom: 5px;
+}
+
+.job p {
+  font-size: 0.95rem;
+  margin-bottom: 10px;
+}
+
+/* Pill List */
+.pill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+}
+
+.pill-list li {
+  background-color: #e0f2fe;
+  color: #0369a1;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .card {
+    padding: 20px;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+  }
+}
