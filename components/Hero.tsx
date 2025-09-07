@@ -66,7 +66,10 @@ const Hero = () => {
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                onClick={() => scrollToAbout()}
+                onClick={() => {
+                  const element = document.querySelector('#contact')
+                  if (element) element.scrollIntoView({ behavior: 'smooth' })
+                }}
                 className="btn btn-primary"
               >
                 Get In Touch
