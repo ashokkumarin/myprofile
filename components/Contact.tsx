@@ -35,7 +35,7 @@ const Contact = () => {
       icon: Github,
       title: "GitHub",
       value: "View my projects",
-      link: "#",
+      link: "https://github.com/ashokkumarin",
       color: "text-gray-800"
     },
     {

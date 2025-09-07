@@ -12,43 +12,102 @@ const Experience = () => {
   const experiences = [
     {
       title: "Director of Development Engineering",
-      company: "Greenway Health",
+      company: "Greenway Health (A Vista Portfolio Company)",
       location: "Bengaluru, India",
       period: "2024 – Present",
       description: "Lead 60+ engineers in delivering EHR products for ambulatory and dental care. Implemented engineering KPIs and dashboards to track velocity, quality, and operational efficiency.",
       achievements: [
-        "Scaled test automation coverage from 19% → 35%",
+        "Achieved 20%+ productivity gains through process improvements",
+        "Scaled test automation coverage from 19% to 35%",
         "Led two complex migration projects",
-        "Launched DevAcademy talent program"
+        "Collaborated with Product and Program teams for seamless delivery",
+        "Defined and tracked engineering KPIs for performance and health",
+        "Fostered continuous improvement via retrospectives and feedback loops",
+        "Mentored engineering managers and senior engineers",
+        "Influenced key architectural decisions through active design participation",
+        "Contributed to DevAcademy via hiring, onboarding projects, and mentoring"
       ],
       tech: ["C# WinForms", "WPF", "Progress ABL", "MSSQL"]
     },
     {
       title: "Senior Software Development Manager & Site Lead",
-      company: "Intelex Technologies",
+      company: "Intelex Technologies (A Fortive Company)",
       location: "Remote",
       period: "2022 – 2024",
       description: "Built 7 Agile teams and scaled the site to 60+ engineers. Reduced onboarding ramp-up to 1 month for new hires.",
       achievements: [
-        "Established Offshore Development Center",
-        "Introduced SAFe methodology",
-        "Maintained vendor relationships"
+        "Established a development center, scaling to 60+ engineers across 7 Scrum teams",
+        "Increased team engagement from 65% → 90%",
+        "Implemented Agile best practices, improving sprint predictability by 30%",
+        "Revamped onboarding, enabling new hire productivity within one month",
+        "Set benchmarks for operational excellence, improving delivery and cost efficiency",
+        "Introduced SAFe methodology to enhance cross-team collaboration",
+        "Influenced architecture through active design discussions",
+        "Streamlined workflows via close collaboration with cross-functional teams",
+        "Maintained vendor relationships to ensure consistent delivery",
+        "Tracked KPIs and project progress, reporting to senior leadership",
+        "Conducted performance evaluations and mentoring to build a cohesive, engaged team"
       ],
       tech: ["C#", "ASP.NET", "Node.js", "React", "MongoDB", "Kafka", "Azure"]
     },
     {
-      title: "Engineering Manager",
-      company: "Tektronix",
+      title: "Engineering Manager <- Program Manager <- Project Lead <- Sr. Software Engineer",
+      company: "Tektronix (A Fortive Company)",
       location: "Bangalore, India",
-      period: "2016 – 2022",
+      period: "2006 – 2022",
       description: "Led multi-product portfolio including TekExpress and high-speed test suites. Increased team engagement from 57% → 92%.",
       achievements: [
         "Delivered 40+ high-speed serial test products",
         "Transitioned legacy products to web-based architecture",
-        "Structured mentoring and career growth paths"
+        "Structured mentoring and career growth paths",
+        "Delivered software projects on time with high quality standards",
+        "Oversaw end-to-end development: design, coding, testing, deployment",
+        "Managed and mentored developers, driving performance and growth",
+        "Defined project scopes and objectives with key stakeholders",
+        "Championed best practices in development and project management",
+        "Drove innovation by staying ahead of industry trends",
+        "Boosted team engagement from 57% to 92% through collaborative culture",
+        "Led architectural decisions and implementation with hands-on leadership",
+        "Owned product portfolio in HDMI/MIPI standards and firmware development",
+        "Facilitated cross-functional collaboration with customers and partners",
+        "Spearheaded recruitment and mentorship to build a high-performing team",
+        "Cultivated a culture of innovation and continuous improvement"
       ],
-      tech: [".NET", "C#", "Python", "ASP.NET"]
-    }
+      tech: [".NET", "C#", "Python", "ASP.NET", "LabVIEW", "TestStand"]
+    },
+    {
+      title: "Senior Software Engineer",
+      company: "Robert Bosch Engineering India Pvt Ltd",
+      location: "Bangalore, India",
+      period: "2005 – 2006",
+      description: "Led development and integration of industrial automation and inspection systems across multiple global sites, delivering robust solutions in C++, C#, LabVIEW, and PLC communication.",
+      achievements: [
+        "Developed drivers and RS-232 modules for pump calibration and PLC communication systems",
+        "Designed and implemented UIs for hardware control and injector inspection systems",
+        "Migrated legacy FoxPro interfaces to modern C# operator consoles for laser marking systems",
+        "Enhanced UI and error reporting for PCB test automation using DLL-based architecture",
+        "Delivered integration and commissioning support across multiple inspection platforms",
+        "Analyzed Marantz PCB inspection tool capabilities for soldering process validation",
+        "Prototyped and implemented LabVIEW-based injector inspection system with NI DAQ integration"
+      ],
+      tech: [".NET", "C#", "LabVIEW", "LabWindows CVI", "TestStand"]
+    },
+    {
+      title: "Senior Project Engineer",
+      company: "Soliton Technologies Pvt Ltd",
+      location: "Bangalore, India",
+      period: "2002 – 2005",
+      description: "Delivered high-speed vision and inspection systems across automotive, industrial, and medical domains, leveraging LabVIEW, NI IMAQ, and embedded technologies for precision automation and defect detection.",
+      achievements: [
+        "Delivered high-speed vision inspection systems for automotive and industrial clients using LabVIEW and NI IMAQ",
+        "Designed adaptive algorithms for defect detection in CT-scan sensors, brake assemblies, and pencil sorting systems",
+        "Developed real-time vision modules achieving sub-40µs detection speeds for high-throughput inspection",
+        "Migrated legacy systems and built modern operator interfaces for laser marking and inspection platforms",
+        "Spearheaded feasibility studies and proof-of-concept demos for 3D measurement and web inspection systems",
+        "Provided technical leadership, installation, and commissioning support across customer sites"
+      ],
+      tech: ["LabVIEW", "LabWindows CVI", "TestStand", "NI IMAQ", "C", "C++"]
+    }   
   ]
 
   const containerVariants = {

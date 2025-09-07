@@ -45,8 +45,8 @@ export default function Home() {
       <About />
       <Experience />
       <Skills />
-      <Projects />
-      <Blog />
+      {/* <Projects />
+      <Blog /> */}
       <Contact />
       <Footer />
     </main>
