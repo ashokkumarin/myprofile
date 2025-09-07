@@ -36,7 +36,7 @@ const Footer = () => {
           >
             <h4 className="font-semibold mb-4">Quick Links</h4>
             <div className="flex flex-wrap justify-center gap-4">
-              {['About', 'Experience', 'Skills', 'Projects', 'Contact'].map((link) => (
+              {['About', 'Experience', 'Skills', 'Contact'].map((link) => (
                 <button
                   key={link}
                   onClick={() => {
@@ -80,7 +80,6 @@ const Footer = () => {
         >
           <p className="text-gray-400 flex items-center justify-center space-x-2">
             <span>&copy; {currentYear} Ashok Kumar. All rights reserved.</span>
-            <span className="text-gray-600">|</span>
           </p>
         </motion.div>
       </div>
