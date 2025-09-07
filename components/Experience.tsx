@@ -19,7 +19,7 @@ const Experience = () => {
       achievements: [
         "Achieved 20%+ productivity gains through process improvements",
         "Scaled test automation coverage from 19% to 35%",
-        "Led two complex migration projects",
+        "Led two complex EHR enhancement projects",
         "Collaborated with Product and Program teams for seamless delivery",
         "Defined and tracked engineering KPIs for performance and health",
         "Fostered continuous improvement via retrospectives and feedback loops",
@@ -27,7 +27,7 @@ const Experience = () => {
         "Influenced key architectural decisions through active design participation",
         "Contributed to DevAcademy via hiring, onboarding projects, and mentoring"
       ],
-      tech: ["C# WinForms", "WPF", "Progress ABL", "MSSQL"]
+      tech: ["C# WinForms", "WPF", "Progress ABL", "PostgreSQL", "AWS", "Node", "MongoDB" ]
     },
     {
       title: "Senior Software Development Manager & Site Lead",
